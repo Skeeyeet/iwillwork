@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.UserDefinedStruct Name="BuffDebuff"
+   Begin Object Class=/Script/UnrealEd.UserDefinedStructEditorData Name="UserDefinedStructEditorData_0"
+   End Object
+   Begin Object Class=/Script/CoreUObject.StrProperty Name="BuffDebuffname_9_A97DABEE48B0C20B2B3978BF57248673"
+   End Object
+   Begin Object Class=/Script/CoreUObject.FloatProperty Name="Duration_8_BDDA718D41083970619608B749B04CA6"
+   End Object
+   Begin Object Class=/Script/CoreUObject.IntProperty Name="Level_12_314ECA284774CD690AF055A878BE668A"
+   End Object
+   Begin Object Name="UserDefinedStructEditorData_0"
+      UniqueNameId=13
+      VariablesDescriptions(0)=(VarName="BuffDebuffname_9_A97DABEE48B0C20B2B3978BF57248673",VarGuid=A97DABEE48B0C20B2B3978BF57248673,FriendlyName="Buff/Debuff name",Category="string")
+      VariablesDescriptions(1)=(VarName="Duration_8_BDDA718D41083970619608B749B04CA6",VarGuid=BDDA718D41083970619608B749B04CA6,FriendlyName="Duration",Category="float")
+      VariablesDescriptions(2)=(VarName="Level_12_314ECA284774CD690AF055A878BE668A",VarGuid=314ECA284774CD690AF055A878BE668A,FriendlyName="Level",Category="int")
+   End Object
+   Begin Object Name="BuffDebuffname_9_A97DABEE48B0C20B2B3978BF57248673"
+   End Object
+   Begin Object Name="Duration_8_BDDA718D41083970619608B749B04CA6"
+   End Object
+   Begin Object Name="Level_12_314ECA284774CD690AF055A878BE668A"
+   End Object
+   EditorData=UserDefinedStructEditorData'"UserDefinedStructEditorData_0"'
+   Guid=1715538141056E4865BEA49DDEF5657E
+End Object
